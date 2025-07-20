@@ -151,7 +151,13 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "327d0d39f99b1b5f",
+        "type": "tabs",
+        "children": [
           {
             "id": "c6d9eeb558709e9b",
             "type": "leaf",
@@ -171,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a77690e0edd6172",
+  "active": "cc884bafef361195",
   "lastOpenFiles": [
     "Welcome.md"
   ]
