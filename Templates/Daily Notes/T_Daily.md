@@ -1,13 +1,28 @@
 # Daily Note
-**Template:** [[T_Daily]]
+*Template*: [[T_Daily]]
+
 ## Deep Work
 ___
-### Focus Sprint
-**Template:** [[T_FocusSprint]]
+### Focus Sprints
+*Template*s: [[T_FocusSprint]]
 
+#### Topics
+- [[Deep Questions With Cal Newport Episode 2]]
+- Focus Sprints
+#### Goal
+- Learn through the podcast to improve focus by learning and applying tangible techniques
+#### Sprints
 
-
-Artifacts
+#### Notes
+- XXX
+#### Artifacts
 - [[T_FocusSprint]]
 - [[T_FocusSprint_Sprint]]
+*]]
+- ##### Sprint: 
+	**Goal**: 
+	**Time Spent:** 
+	**Notes**:
+### Artifacts
+- 
 ___
