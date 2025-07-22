@@ -1,4 +1,3 @@
-*Template*: [[T_Daily]]
 ## Deep Work
 ___
 ### Focus Sprints
