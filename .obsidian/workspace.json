@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/T_Daily.md",
+                "file": "Templates/Daily Notes/T_Daily.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-07-21.md",
+                "file": "Templates/T_MediaNotes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-21"
+              "title": "T_MediaNotes"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2025-07-21.md",
+                "file": "Templates/T_MediaNotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-07-21"
+              "title": "Backlinks for T_MediaNotes"
             }
           },
           {
@@ -191,13 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2025-07-21.md",
+                "file": "Templates/T_MediaNotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-07-21"
+              "title": "Outline of T_MediaNotes"
             }
           }
         ]
@@ -217,17 +217,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad167cd7de9ab24",
+  "active": "c0ebc8bef2d370d9",
   "lastOpenFiles": [
-    "Learning By Topic/Productivity/Deep Questions With Cal Newport Episode 2.md",
-    "Daily/2025-07-21.md",
-    "Learning By Topic/Software/Python Programming Language/1. Introduction, 2. Lexical Analysis.md",
+    "Templates/Daily Notes/T_Daily.md",
+    "Templates/Daily Notes/Focus Sprints/T_FocusSprint_Sprint.md",
+    "Templates/Daily Notes/Focus Sprints/T_FocusSprint.md",
     "Templates/T_MediaNotes.md",
-    "Templates/T_FocusSprint.md",
-    "Templates/T_Daily.md",
+    "Templates/Daily Notes",
+    "Daily/2025-07-21.md",
+    "Learning By Topic/Productivity/Deep Questions With Cal Newport Episode 2.md",
+    "Daily/2025-07-20.md",
+    "Templates/Daily Notes/Focus Sprints",
+    "Learning By Topic/Software/Python Programming Language/1. Introduction, 2. Lexical Analysis.md",
     "Untitled.md",
     "Learning By Topic/Productivity/Focus Sprint Planning.md",
-    "Daily/2025-07-20.md",
     "Daily/Idea Dump",
     "Learning By Topic/Software",
     "Learning By Topic",
