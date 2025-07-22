@@ -1,7 +1,10 @@
+# Daily Note
+**Template:** [[T_MediaNotes]]
+
 ## Deep Work
 ___
-### Focus Sprints
-Topic: Cal Newport 
-Count: <count>
-Notes: <notes here>
-Artefacts:
+### Focus Sprint
+**Template:** [[T_FocusSprint]]
+
+
+___

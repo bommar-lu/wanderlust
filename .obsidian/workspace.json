@@ -27,6 +27,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Templates/T_MediaNotes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T_MediaNotes"
+            }
+          },
+          {
+            "id": "59c2c2c0bd6d39ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Templates/T_Daily.md",
                 "mode": "source",
                 "source": false
@@ -34,9 +48,23 @@
               "icon": "lucide-file",
               "title": "T_Daily"
             }
+          },
+          {
+            "id": "1ad167cd7de9ab24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-07-21.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-07-21"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -109,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python Programming Language/1. Introduction, 2. Lexical Analysis.md",
+                "file": "Daily/2025-07-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Introduction, 2. Lexical Analysis"
+              "title": "Backlinks for 2025-07-21"
             }
           },
           {
@@ -163,21 +191,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python Programming Language/1. Introduction, 2. Lexical Analysis.md",
+                "file": "Daily/2025-07-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Introduction, 2. Lexical Analysis"
+              "title": "Outline of 2025-07-21"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,14 +217,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c92630ea3e3b32",
+  "active": "1ad167cd7de9ab24",
   "lastOpenFiles": [
     "Learning By Topic/Productivity/Deep Questions With Cal Newport Episode 2.md",
+    "Daily/2025-07-21.md",
+    "Learning By Topic/Software/Python Programming Language/1. Introduction, 2. Lexical Analysis.md",
     "Templates/T_MediaNotes.md",
+    "Templates/T_FocusSprint.md",
     "Templates/T_Daily.md",
+    "Untitled.md",
+    "Learning By Topic/Productivity/Focus Sprint Planning.md",
     "Daily/2025-07-20.md",
     "Daily/Idea Dump",
-    "Learning By Topic/Software/Python Programming Language/1. Introduction, 2. Lexical Analysis.md",
     "Learning By Topic/Software",
     "Learning By Topic",
     "Learning By Topic/Productivity",
