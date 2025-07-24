@@ -47,6 +47,40 @@ ___
 - [Lewis Mumford: Technics and Civilization](https://en.wikipedia.org/wiki/Technics_and_Civilization) - Theories on how technologies have side effects / impacts on the way we live our lives (technodeterminism)
 
 ## Pursuing Deep Work
-- What to pursue?
+### 0. What to pursue?
 	- Take the areas that matter to you
-	- 
+	- What are the big swings I want to make?
+		- Then be efficient about it
+- **This really is all about what are your big pursuits**
+
+### 1. Reflection / Introspection
+- *Spend time alone with your own thoughts*. 
+	- Solitude, digital minimalism
+- Build your sense of self!
+
+### 2. Experimentation
+1. Get out there and try things
+2. *Action is how you learn about what's right*
+
+### 3. Expose yourself to many models of life.
+1. Podcasts, interviews, documentaries
+2. YOU WILL NOT COME UP WITH THESE ANSWERS YOURSELF!
+3. Some people use complete models
+	1. Religion: An example of complete models - a fully formed, ethical moral system. 
+		1. This is something that helps fill in the gaps
+	2. Constitution:
+		1. Health / fitness: use a workout program or community
+		2. e.g.: crossfit, bjj
+4. Some people react to supreme efficiency with cynicism
+	1. This makes it very difficult to figure things out.
+	2. You'll get stuck
+5. Don't shy away from plug and play! 
+	1. You can always move on.
+	2. You can always upgrade.
+6. Be less worried about flaws
+
+*The cynics are way outside the arena, looking down at their phones, anxiously looking for likes.*
+
+Maybe up next:  
+- [Teddy Roosevelt: Man in the Arena](https://www.theodorerooseveltcenter.org/Learn-About-TR/TR-Encyclopedia/Culture-and-Society/Man-in-the-Arena.aspx)
+- 
