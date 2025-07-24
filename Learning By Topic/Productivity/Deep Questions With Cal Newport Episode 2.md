@@ -34,3 +34,19 @@
 - Log your deep work hours in daily journals
 
 - Idea: log focus sprints in journal every day, track progress until you get to an hour and a half
+
+
+# 2025-07-24
+___
+## Influential Books
+- Obsession with concentration: [James Gleik - Genius](https://archive.nytimes.com/www.nytimes.com/books/97/09/21/reviews/feynman-genius.html?scp=51&sq=harvard+spy&st=cse)
+- Chaos theory to the public: [James Gleik - Chaos](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)
+- information age: [James Gleik - The Information](https://en.wikipedia.org/wiki/The_Information:_A_History,_a_Theory,_a_Flood)
+#idea Look up how to write blogs well
+- [You Are Not a Gadget](https://www.amazon.com/You-Are-Not-Gadget-Manifesto/dp/0307389979)
+- [Lewis Mumford: Technics and Civilization](https://en.wikipedia.org/wiki/Technics_and_Civilization) - Theories on how technologies have side effects / impacts on the way we live our lives (technodeterminism)
+
+## Pursuing Deep Work
+- What to pursue?
+	- Take the areas that matter to you
+	- 
