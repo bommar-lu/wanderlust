@@ -10,4 +10,3 @@
 - Burning Ropes: **Solved**
 - Defective Ball: Failed
 - Trailing Zeroes: Failed
-- 
