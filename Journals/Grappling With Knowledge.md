@@ -1,0 +1,1 @@
+Spending time with highly functioning people creates anxiety within my mind. At face value, seeing the gap between the way people like this function in their daily lives: the conversations they have, the way they schedule their time, the way in which th
