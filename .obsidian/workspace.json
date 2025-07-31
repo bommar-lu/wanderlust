@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lists/Tech Blogs.md",
+                "file": "Daily/2025-07-31.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tech Blogs"
+              "title": "2025-07-31"
             }
           }
         ],
@@ -262,8 +262,8 @@
   },
   "active": "f3d2b435d4d4d70b",
   "lastOpenFiles": [
-    "Lists/Reading.md",
     "Lists/Tech Blogs.md",
+    "Lists/Reading.md",
     "Learning/Learning By Topic/Music Production/In Introduction to Computer Music - Online Text.md",
     "Lists",
     "Nice Blog Sources",
