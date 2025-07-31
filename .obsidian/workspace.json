@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2025-07-30.md",
+                "file": "Projects/Ideas/LLM-Enabled Analysis of Web Browser History to Improve Search and Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-30"
+              "title": "LLM-Enabled Analysis of Web Browser History to Improve Search and Learning"
             }
           }
         ],
@@ -248,8 +248,9 @@
   },
   "active": "c82cf0020d07f41d",
   "lastOpenFiles": [
-    "Daily/2025-07-28.md",
     "Daily/2025-07-30.md",
+    "Projects/Ideas/LLM-Enabled Analysis of Web Browser History to Improve Search and Learning.md",
+    "Daily/2025-07-28.md",
     "Untitled.canvas",
     "Learning/Learning By Topic/Math/Green Book/Green Book Problem Tracker.md",
     "Learning/Learning By Topic/Math/Green Book/a-practical-guide-to-quantitative-finance-interviews.pdf",
