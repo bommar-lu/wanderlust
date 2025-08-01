@@ -145,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 499.5
   },
   "right": {
     "id": "d024cb405158e02e",
@@ -242,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c82cf0020d07f41d",
+  "active": "c0ebc8bef2d370d9",
   "lastOpenFiles": [
     "Untitled.canvas",
     "Learning/Learning By Topic/Productivity/Deep Questions With Cal Newport Episode 2.md",
