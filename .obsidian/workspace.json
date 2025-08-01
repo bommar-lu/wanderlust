@@ -81,10 +81,14 @@
             "id": "c82cf0020d07f41d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2025-08-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-01"
             }
           }
         ],
@@ -242,12 +246,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0ebc8bef2d370d9",
+  "active": "c82cf0020d07f41d",
   "lastOpenFiles": [
+    "Templates/Daily Notes/T_Daily.md",
+    "Templates/T_Scratchpad.md",
+    "Daily/2025-08-01.md",
+    "Daily/2025-07-31.md",
+    "Daily/2025-07-28.md",
+    "Journals/VR Entertainment - A Reflection.md",
+    "Journals/Grappling With Knowledge.md",
     "Untitled.canvas",
     "Learning/Learning By Topic/Productivity/Deep Questions With Cal Newport Episode 2.md",
-    "Daily/2025-07-31.md",
-    "Templates/Daily Notes/T_Daily.md",
     "Lists/Article List.md",
     "Lists/Reading.md",
     "Lists/Tech Blogs.md",
@@ -256,8 +265,6 @@
     "Daily/2025-07-30.md",
     "Projects/Ideas/Twitter Community of Agents.md",
     "Projects/Ideas/LLM-Enabled Analysis of Web Browser History to Improve Search and Learning.md",
-    "Journals/VR Entertainment - A Reflection.md",
-    "Journals/Grappling With Knowledge.md",
     "Learning/Learning By Topic/Music Production/In Introduction to Computer Music - Online Text.md",
     "Lists",
     "Nice Blog Sources",
@@ -265,7 +272,6 @@
     "Daily/2025-07-20.md",
     "Learning/Untitled.md",
     "Reading",
-    "Daily/2025-07-28.md",
     "Learning/Learning By Topic/Math/Green Book/Green Book Problem Tracker.md",
     "Learning/Learning By Topic/Math/Green Book/a-practical-guide-to-quantitative-finance-interviews.pdf",
     "Learning/Learning By Topic/Math/Green Book",
@@ -273,7 +279,6 @@
     "Learning/Learning By Topic/Math",
     "Daily/2025-07-27.md",
     "Daily/2025-07-24.md",
-    "Templates/T_Scratchpad.md",
     "Journals",
     "Daily/2025-07-23.md",
     "Projects/In Progress",
