@@ -20,3 +20,7 @@ ___
 ## Interesting Links
 ___ 
 - 
+
+## Journal
+___
+- 
